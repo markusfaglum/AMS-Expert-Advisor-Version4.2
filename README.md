@@ -1,3 +1,5 @@
+# Advanced-Market-Structure-Expert-Advisor-Version 4.2
+
 This is an expert advisor using a startegy based on a very simplified understanding of Advanced Market Structure. It finds the extreme high looking back X amount of bars. From the high looks back until it finds the first bar that closed lower than it opened. If the current bar closes below the lowest price between the extreme high and the first down bar, an order is placed at that price with a stop loss at the extreme high. The reverse is done for a short.
 
 Inputs:
@@ -7,7 +9,8 @@ Inputs:
 - Supertrend indicator
 - Variable lot size based on precentage of account to risk
 - Martingale strategy
-11 adjusatble inputs in total
+- 11 adjusatble inputs in total
+
 The EA will only buy and sell during certain periods based a simple understanding of the cycle work.(github version is missing complete cycle dates produced by calculator outside of this EA)
 
 Complicating the strategy/code has not yet produced better results.
@@ -18,4 +21,4 @@ The Expert Advisor used for the backtests has access the complete cycle work/dat
 
 2009-2015 data is used to verify results of the optimization(forward test). No changes made to the EA or inputs based on this time period.
 
-The risk used per trade is fixed to 100 USD, for more accurate evaluation of results
+The risk used per trade is fixed to 100 USD, for more accurate evaluation of results.
