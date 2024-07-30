@@ -33,7 +33,7 @@
 //| Input                                                            |
 //+------------------------------------------------------------------+
 
-static input long    InpMagicNumber = 27321; // magic number
+static input long    InpMagicNumber = 32321; // magic number
 
 input int            InpBars = 20;           // bars range for high/low
 input int            InpIndexFilter = 0;     // index filter in % (0=off)
