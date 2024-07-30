@@ -1,4 +1,4 @@
-//+------------------------------------------------------------------+
+//       This code was never intented to be viwed by anyone else, hence the reason for the consufing variable names and more.
 //|                                  V2         Cycle + AMS
 //|                                             Index filter + high low distance filter
 //|                                             Lots based on risk
@@ -21,7 +21,7 @@
 //|                                 Notes: Anything related to Supertrend is disabled via comment, will produce error without supertrend indicator downloaded and installed
 //|                                        This is a startegy based on a very simplified version of Advanced Market Structure and simplified cycle work (github version is missing complete cycle dates produced by calculator outside of this code)
 //|                                        Complicating the strategy/code has not yet produced better results
-//|  
+//|                                           
 //+------------------------------------------------------------------+
 
 //+------------------------------------------------------------------+
