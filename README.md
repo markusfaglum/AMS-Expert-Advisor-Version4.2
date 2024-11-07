@@ -23,4 +23,5 @@ The Expert Advisor used for backtesting has access to the complete cycle dates f
 
 Data from 2015 to 2024 was used for optimizing EA inputs.
 
-Data from 2009 to 2015 was used to verify the results of the optimization (forward test). No changes were made to the EA or inputs based on this time period.
+Data from 2009 to 2015: https://markusfaglum.github.io/AMS-Expert-Advisor-Version4.2/
+This was used to verify the results of the optimization (forward test). No changes were made to the EA or inputs based on this time period.
