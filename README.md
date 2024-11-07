@@ -17,6 +17,7 @@ Inputs:
 - Supertrend indicator
 - Variable lot size based on percentage of account balance to risk
 - Martingale strategy
+
 11 adjustable inputs in total
 
 The Expert Advisor used for backtesting has access to the complete cycle dates for the relevant period. Martingale, index filter, and the supertrend indicator are all disabled in the backtests based on the optimization results (not shown here).
